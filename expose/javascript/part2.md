@@ -32,9 +32,4 @@
 16. See part2-question16.js
 17. The result will be [2, 4, 6]. The newArr array is created. The loop goes through each element in the given array, running it through the doSomething function, which multiplies it by 2, and adding it to the newArr array. The newArr array then holds what it is essentially the given array with each element multiplied by 2.
 18. See part2-question18.js
-19. Output is as below
-
-1
-4
-3
-2
+19. Output is as follows: 1 4 3 2
