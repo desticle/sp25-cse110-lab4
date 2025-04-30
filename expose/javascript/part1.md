@@ -5,4 +5,3 @@
 5. Line 13 returns an error, as the let variable cannot be accessed outside of its block.
 6. Line 9 returns an error, as the const variable cannot be reassigned.
 7. Line 13 would not execute, as as line 9 above it would throw an error. However, ignoring this, line 13 would have an error of its own as the const variable cannot be accessed outside of its block.
-8. 
